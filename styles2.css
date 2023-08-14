@@ -261,7 +261,7 @@ img{
     min-height:100vh;
     display: flex;
     align-items: center;
-    background: url(bean.jpeg)no-repeat;
+    background: url(./assets/bean.jpeg)no-repeat;
     background-size: cover;
     background-position: center;
     margin-top:3rem;
